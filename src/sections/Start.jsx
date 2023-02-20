@@ -3,7 +3,7 @@ import { ContactContainer } from "../components";
 function Start() {
   return (
     <div class="flex gap-x-5">
-        <div class="w-[70%] h-[28rem] flex flex-col justify-between bg-gradient-to-br from-[#eff9fe] via-[#daeeff] to-[#6db6f9]  text-neutral-800 p-12 rounded-3xl">
+        <div class="w-[70%] h-[28rem] flex flex-col justify-between bg-gradient-to-br from-[#eff9fe] via-[#daeeff] to-[#6db6f9]  text-neutral-800 p-12 rounded-3xl font-light">
             <div>
                 <p class="text-5xl font-semibold mb-12 leading-[4.5rem]">Hi, my Anes Diaf, <br/>I'm a Software Engineer</p>
                 <p>I Design & Develop Accessible, Elegant Apps using modern tech stacks.</p>
