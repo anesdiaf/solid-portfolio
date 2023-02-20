@@ -13,7 +13,7 @@ function Nav() {
         </div>
         <ul class="flex items-center gap-x-4">
             {section_links.map(link => {
-                const {id, title, url} = link;
+                const {title} = link;
                 return(
                     <a href={'#' + title}>{title}</a>
                 )

@@ -1,5 +1,4 @@
 import { ContactContainer } from "../components";
-import { socials as links } from "../utils/constants";
 
 function Start() {
   return (

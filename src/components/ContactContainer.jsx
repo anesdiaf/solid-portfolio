@@ -8,7 +8,7 @@ function ContactContainer() {
         {socials.map(link => {
             const {id, url, icon} = link;
             return(
-                <a href={url} key={id} target='_blank' rel="noreferrer" class='text-neutral-800 hover:text-white'>
+                <a href={url} target='_blank' rel="noreferrer" class='text-neutral-800 hover:text-white'>
                     {icon}
                 </a>
             )
