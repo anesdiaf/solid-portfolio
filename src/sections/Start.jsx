@@ -10,7 +10,7 @@ function Start() {
             </div>
             <ContactContainer/>
         </div>
-        <div class="w-[30%] h-[28rem] rounded-2xl overflow-hidden">
+        <div class="w-[30%] h-[28rem] rounded-3xl overflow-hidden">
             <img class="object-cover" src="https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8cG9ydHJhaXR8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60" alt="Profile"/>
         </div>
     </div>
