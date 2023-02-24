@@ -1,3 +1,4 @@
+import { For } from "solid-js";
 import { section_links } from "../utils/constants"
 
 function Nav() {
@@ -12,12 +13,10 @@ function Nav() {
             </p>
         </div>
         <ul class="flex items-center gap-x-4">
-            {section_links.map(link => {
-                const {title} = link;
-                return(
-                    <a href={'#' + title}>{title}</a>
-                )
-            })}
+            <For each={section_links}>{(link, i) =>
+                <a href={'#' + link.title}>{link.title}</a>
+            }
+            </For>
         </ul>
     </nav>
   )
