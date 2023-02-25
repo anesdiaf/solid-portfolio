@@ -4,48 +4,48 @@
 
 @font-face {
   font-family: 'Open Sauce';
-  src: url('./assets/Fonts/open-sauce/./assets/Fonts/open-sauce/opensaucesans-light-webfont.woff2') format('woff2'),
-       url('./assets/Fonts/open-sauce/./assets/Fonts/open-sauce/opensaucesans-light-webfont.woff') format('woff');
+  src: url('./Fonts/open-sauce/./assets/Fonts/open-sauce/opensaucesans-light-webfont.woff2') format('woff2'),
+       url('./Fonts/open-sauce/./assets/Fonts/open-sauce/opensaucesans-light-webfont.woff') format('woff');
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Open Sauce';
-  src: url('./assets/Fonts/open-sauce/opensaucesans-regular-webfont.woff2') format('woff2'),
-       url('./assets/Fonts/open-sauce/opensaucesans-regular-webfont.woff') format('woff');
+  src: url('./Fonts/open-sauce/opensaucesans-regular-webfont.woff2') format('woff2'),
+       url('./Fonts/open-sauce/opensaucesans-regular-webfont.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Open Sauce';
-  src: url('./assets/Fonts/open-sauce/./assets/Fonts/open-sauce/opensaucesans-medium-webfont.woff2') format('woff2'),
-       url('./assets/Fonts/open-sauce/./assets/Fonts/open-sauce/opensaucesans-medium-webfont.woff') format('woff');
+  src: url('./Fonts/open-sauce/./assets/Fonts/open-sauce/opensaucesans-medium-webfont.woff2') format('woff2'),
+       url('./Fonts/open-sauce/./assets/Fonts/open-sauce/opensaucesans-medium-webfont.woff') format('woff');
   font-weight: 500;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Open Sauce';
-  src: url('./assets/Fonts/open-sauce/opensaucesans-bold-webfont.woff2') format('woff2'),
-       url('./assets/Fonts/open-sauce/opensaucesans-bold-webfont.woff') format('woff');
+  src: url('./Fonts/open-sauce/opensaucesans-bold-webfont.woff2') format('woff2'),
+       url('./Fonts/open-sauce/opensaucesans-bold-webfont.woff') format('woff');
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Open Sauce';
-  src: url('./assets/Fonts/open-sauce/opensaucesans-extrabold-webfont.woff2') format('woff2'),
-       url('./assets/Fonts/open-sauce/opensaucesans-extrabold-webfont.woff') format('woff');
+  src: url('./Fonts/open-sauce/opensaucesans-extrabold-webfont.woff2') format('woff2'),
+       url('./Fonts/open-sauce/opensaucesans-extrabold-webfont.woff') format('woff');
   font-weight: 800;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Open Sauce';
-  src: url('./assets/Fonts/open-sauce/opensaucesans-black-webfont.woff2') format('woff2'),
-       url('./assets/Fonts/open-sauce/opensaucesans-black-webfont.woff') format('woff');
+  src: url('./Fonts/open-sauce/opensaucesans-black-webfont.woff2') format('woff2'),
+       url('./Fonts/open-sauce/opensaucesans-black-webfont.woff') format('woff');
   font-weight: 900;
   font-style: normal;
 }
